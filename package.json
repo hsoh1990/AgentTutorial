@@ -1,0 +1,21 @@
+{
+  "name": "ai-agent-tutorial",
+  "version": "1.0.0",
+  "description": "Step-by-step AI Agent tutorial with Google Gemini",
+  "type": "module",
+  "scripts": {
+    "step1": "node step1_basic_chat/app.js",
+    "step2": "node step2_weather_api/app.js",
+    "step3": "node step3_db_integration/app.js",
+    "step4": "node step4_user_weather/app.js"
+  },
+  "keywords": ["ai", "agent", "gemini", "tutorial"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.5",
+    "axios": "^1.7.9",
+    "better-sqlite3": "^11.7.0"
+  }
+}
