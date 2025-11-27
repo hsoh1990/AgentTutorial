@@ -2,6 +2,10 @@
 
 단계별로 AI Agent를 구축하는 튜토리얼입니다.
 
+```bash
+git clone https://github.com/hsoh1990/AgentTutorial.git
+```
+
 ## 🎯 학습 목표
 
 - AI Agent의 기본 개념 이해
